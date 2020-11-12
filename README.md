@@ -1,3 +1,4 @@
+<!Doctype html>
 # Downtown-Connections
 <hr1> We bring stores to your doors 
   </hr1>
